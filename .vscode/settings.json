@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "SKILL.md": "markdown",
+    "skill.md": "markdown",
+    "**/SKILL.md": "markdown",
+    "**/skill.md": "markdown"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  }
+}
